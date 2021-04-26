@@ -1,0 +1,30 @@
+@media (max-width: 900px)
+{
+	.div-2 {
+		flex-direction: column;
+		align-items: center;
+		background-color: pink;
+	}
+}
+@media (max-width: 900px)
+    {
+    	.left-block {
+    		margin-bottom: 20px
+    	}
+    }
+
+@media ( max-width: 900px)
+{
+	.block3-div {
+		flex-wrap: wrap;
+		flex-direction: column;
+		align-items: center;
+		background-color: yellow;
+	}
+}
+@media (max-width: 900px)
+{
+	.div-b {
+		flex-wrap: wrap;
+	}
+}
